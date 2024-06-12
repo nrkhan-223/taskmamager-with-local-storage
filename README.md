@@ -1,16 +1,9 @@
-# app1
 
-A new Flutter project.
+By using get x state management
+and MVVM model architecture 
+and for the local storage use SQLite to save the task locally 
+You can read edit and delete task as you like 
+for that, I have to use public rest API to complete it
+But you can't use crud operation offline
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+videolink: https://drive.google.com/file/d/1GSU6OE8NHP_6FTsGOiOdJONDqDasgexk/view?usp=drive_link
